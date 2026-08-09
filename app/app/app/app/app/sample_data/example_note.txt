@@ -1,0 +1,14 @@
+Patient Note - Follow-up Visit
+Date: 2025-11-12
+
+Patient reports persistent fatigue and occasional dizziness for the past 3 months.
+Blood pressure measured at 148/92 mmHg.
+Previous lab results (2025-09-15):
+- HbA1c: 7.2%
+- Fasting glucose: 132 mg/dL
+- Creatinine: 1.1 mg/dL
+- LDL cholesterol: 145 mg/dL
+
+Doctor notes possible early metabolic syndrome. Recommended lifestyle changes and follow-up labs in 8 weeks.
+Patient mentioned reading a paper suggesting metformin might help but was told current evidence is mixed for this profile.
+No current medications except occasional ibuprofen for headaches.
